@@ -3,6 +3,8 @@
 
 set -euox pipefail
 
+bash build-bin.sh
+
 CHEQD_CHAIN_ID="cheqd"
 CHEQD_BINARY_NAME=./cheqd-noded-latest
 KEYRING="--keyring-backend=test"
