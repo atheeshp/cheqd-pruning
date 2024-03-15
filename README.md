@@ -4,7 +4,7 @@
 
 Steps followed:
 
-- started a test chain with multiple validators ([multi-node](multi-node.sh) file also attached)
+- started a test chain with multiple validators ([multi-node.sh](multi-node.sh) file also attached)
 - kept the pruning configuration as default.
 
 ```toml
