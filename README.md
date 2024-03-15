@@ -32,7 +32,7 @@ Steps followed:
     pruning-interval = "0"
 ```
 
-- results are stored at file `size_pruning_default.csv` (checking the disk usage at every block)
+- results are stored at file `size_pruning_nothing.csv` (checking the disk usage at every block)
 observation: disk usage of `node1`, `node2` are almost same (node1 ~ node2) after producing the 5000 blocks
 
 _x axis heights, y axis size in KBs_
